@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "三茶物語",
+  "base_artist": "ヤングスキニー",
+  "createdAt": "2026-03-09T01:47:48.115023Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "三茶物語",
+      "artist": "ヤングスキニー",
+      "has_synced": false,
+      "path": "select/pl_01_三茶物語_ヤングスキニー.txt"
+    }
+  ]
+}
